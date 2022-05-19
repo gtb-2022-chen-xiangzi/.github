@@ -16,6 +16,6 @@ This is me which cut my long hair in 2021:
 
 And this wearing the graduation dress with a red bow tie in June 2021:
 
-<img src="微信图片_20220519173034.jpg" alt="me-in-macao" width="20%" />
+<img src="微信图片_20220519173034.jpg" width="20%" />
 
 Hope to enjoy the wonderful journey in Thoughtworks.
