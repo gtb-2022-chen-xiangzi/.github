@@ -8,7 +8,7 @@ Look at the clear blue sky and white clouds which is took by me. I hope the city
 
 This is me in 2020.I enjoyed dying my hair in different colors.
 
-<img src="assets/微信图片_20220519171918.jpg" alt="me-now-2020 width="30%" />
+<img src="assets/微信图片_20220519171918.jpg"  width="30%" />
 
 This is me which cut my long hair in 2021:
 
