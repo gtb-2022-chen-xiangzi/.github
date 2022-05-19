@@ -4,7 +4,7 @@ Hi, this is me, Chenxiangzi.
 
 Look at the clear blue sky and white clouds which is took by me. I hope the city  is as spectacular as yours:)
 
-![me-panda](assets/微信图片_20220519171918.jpg.jpg)
+(assets/微信图片_20220519171918.jpg.jpg)
 
 This is me in 2020.I enjoyed dying my hair in different colors.
 
@@ -12,7 +12,7 @@ This is me in 2020.I enjoyed dying my hair in different colors.
 
 This is me which cut my long hair in 2021:
 
-![me-join-tw-2011](assets/微信图片_20220519173038.jpg)
+(assets/微信图片_20220519173038.jpg)
 
 And this wearing the graduation dress with a red bow tie in June 2021:
 
