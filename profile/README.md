@@ -4,7 +4,7 @@ Hi, this is me, Chenxiangzi.
 
 Look at the clear blue sky and white clouds which is took by me. I hope the city  is as spectacular as yours:)
 
-(assets/微信图片_20220519171918.jpg.jpg)
+< img src="assets/微信图片_20220519171918.jpg" alt="me-now-2021" width="30%" />
 
 This is me in 2020.I enjoyed dying my hair in different colors.
 
